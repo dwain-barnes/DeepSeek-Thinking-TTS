@@ -64,6 +64,5 @@ The script will detect DeepSeek's thinking tags and convert them to speech in re
 
 ## Credits
 - [Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - TTS server
-- [Kokoro-82M](https://huggingface.co/spaces/Remsy/Kokoro-82M) - TTS model
 - [Ollama](https://ollama.ai/) - Local LLM runner
 - [DeepSeek](https://github.com/deepseek-ai/DeepSeek-LLM) - Language model
