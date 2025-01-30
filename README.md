@@ -2,6 +2,9 @@
 
 Listen to DeepSeek's thinking process in real-time! This script converts DeepSeek's thinking tags (<think>...</think>) to speech using Kokoro TTS, allowing you to hear the model's "thoughts" as it reasons through your questions.
 
+## Thanks
+Special thanks to Kris  @AllAboutAI-YT for the inspiration behind this project
+
 ## Features
 - Streams DeepSeek responses through Ollama
 - Detects and processes thinking tags in real-time
