@@ -1,0 +1,6 @@
+openai
+ollama
+pygame
+python-dotenv
+aiohttp
+asyncio
